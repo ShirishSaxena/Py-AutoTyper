@@ -8,7 +8,7 @@ import keyboard
 
 
 
-Version = "v4.4 (29-Nov-19)"
+Version = "v1.1 (25-Nov-19)"
 ##########################
 '''
     Author : Shirish Saxena
