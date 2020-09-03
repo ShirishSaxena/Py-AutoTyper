@@ -1,11 +1,12 @@
 # Py-AutoTyper
-PyAutoType that types texts files into formats like .dxt.
+PyAutoType that autotypes texts onto formats like .dxt.
 
-This doesn't simulate keypresses so It might not work where simulation is needed.
+This doesn't simulate keypresses so it might not work where simulation is needed.
 This just write all the text that is in the .txt file onto any program where typing is needed.
 
-Needs : pip install keyboard #To work
-
+Dependencies:
+ - keyboard
+    ```pip install keyboard```
 
 
 ```
