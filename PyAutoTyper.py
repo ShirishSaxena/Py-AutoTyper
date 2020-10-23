@@ -10,10 +10,6 @@ import keyboard
 
 Version = "v1.1 (25-Nov-19)"
 ##########################
-'''
-    Author : Shirish Saxena
-'''
-##########################
 
 WaitTime = 3
 Version ='1.1 '
